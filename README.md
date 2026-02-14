@@ -1,4 +1,4 @@
-# Yo, I'm Luis👋 
+# Yaharro, I'm Luis👋 
 
 I'm a curious computer science student strengthening my backend, database, and mobile development skills while actively shifting my focus toward **Machine Learning and AI systems**.
 
