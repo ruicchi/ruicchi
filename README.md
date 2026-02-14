@@ -1,11 +1,5 @@
 # Yo, I'm Luis👋 
 
-🎓 Computer Science student  
-🤖 Machine Learning Enthusiast     
-📍 Currently building strong software engineering foundations while transitioning into ML 
-
----
-
 ## 🚀 About Me
 
 I'm a curious computer science student strengthening my backend, database, and mobile development skills while actively shifting my focus toward **Machine Learning and AI systems**.
