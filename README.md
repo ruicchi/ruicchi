@@ -34,4 +34,4 @@ I enjoy understanding how systems work under the hood and improving step by step
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=ruicchi&theme=default)
