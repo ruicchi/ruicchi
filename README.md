@@ -1,8 +1,8 @@
 # Yaharro!👋 
 
-I'm a curious computer science student strengthening my backend, database, and mobile development skills.
+I'm a curious computer science student strengthening my frontend, backend, database, and mobile development skills.
 
-I enjoy understanding how systems work under the hood and improving step by step! 
+I enjoy understanding how systems work behind the scenes and improving step by step! 
 
 ---
 
