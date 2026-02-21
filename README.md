@@ -37,5 +37,3 @@ I enjoy understanding how systems work behind (and in front of) the scenes and i
 
 ## 🔥 Contribution Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=ruicchi&theme=tokyonight-duo)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruicchi&show_icons=true&count_private=true&theme=radical)
-
