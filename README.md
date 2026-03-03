@@ -1,4 +1,4 @@
-# Yaharro! ![umaru-dancing](https://github.com/user-attachments/assets/c8201c86-a397-46f6-9c0e-8bd1176c9074)
+# Yaharro! <img src="https://github.com/user-attachments/assets/c8201c86-a397-46f6-9c0e-8bd1176c9074" width="50" alt="UmaruDancing" />
 
 I'm a curious computer science student strengthening my frontend, backend, database, and mobile development skills.
 I enjoy understanding how systems work behind (and in front of) the scenes and improving step by step!
