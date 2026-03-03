@@ -1,7 +1,7 @@
-# Yaharro!👋 ![Image](https://github.com/user-attachments/assets/c7155766-0645-4300-bdbe-a837c691e666)
+# Yaharro!👋
+![Image](https://github.com/user-attachments/assets/c7155766-0645-4300-bdbe-a837c691e666)
 
 I'm a curious computer science student strengthening my frontend, backend, database, and mobile development skills.
-
 I enjoy understanding how systems work behind (and in front of) the scenes and improving step by step! 
 
 ---
