@@ -1,4 +1,4 @@
-# Yaharro!👋 
+# Yaharro!👋 [Ferret](https://media1.tenor.com/m/UTIxDC2n13AAAAAd/ferret-dancing-ferret.gif)
 
 I'm a curious computer science student strengthening my frontend, backend, database, and mobile development skills.
 
