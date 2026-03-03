@@ -5,7 +5,7 @@ I enjoy understanding how systems work behind (and in front of) the scenes and i
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack <img src="https://github.com/user-attachments/assets/91fe99b6-a181-45a6-a782-2fe24d8be2e3" width="50" alt="Hackerman" />
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
