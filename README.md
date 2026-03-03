@@ -1,7 +1,7 @@
 # Yaharro!👋
 
 I'm a curious computer science student strengthening my frontend, backend, database, and mobile development skills.
-I enjoy understanding how systems work behind (and in front of) the scenes and improving step by step! <img src="https://github.com/user-attachments/assets/c7155766-0645-4300-bdbe-a837c691e666" width="50" alt="Dancing Ferret" />
+I enjoy understanding how systems work behind (and in front of) the scenes and improving step by step! ![Image](https://github.com/user-attachments/assets/37c2d2e4-5f95-4673-b03e-a2a82815163c)
 
 ---
 
