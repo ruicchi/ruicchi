@@ -24,6 +24,7 @@ I enjoy understanding how things work behind (and in front of) the scenes and im
 
 #### Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 #### Databases
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)
@@ -38,6 +39,7 @@ I enjoy understanding how things work behind (and in front of) the scenes and im
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-019733?style=for-the-badge&logo=neovim&logoColor=white)
 
 ---
 
