@@ -37,6 +37,9 @@ I enjoy understanding how things work behind (and in front of) the scenes and im
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%234E72B2.svg?style=for-the-badge&logo=SciPy&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-019733?style=for-the-badge&logo=neovim&logoColor=white)
 
 ---
