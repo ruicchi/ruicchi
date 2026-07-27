@@ -2,7 +2,7 @@
 
 I am a student who likes programming & _organizing data_.
 
-I optimize data pipelines in my free time and sometimes make basic websites.
+I optimize data pipelines in my free time and sometimes make basic websites and games.
 
 ---
 
