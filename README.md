@@ -42,3 +42,5 @@ I optimize data pipelines in my free time and sometimes make basic websites and 
 
 ### 🔥 Contribution Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=ruicchi&theme=tokyonight-duo)](https://git.io/streak-stats)
+
+![snek](https://raw.githubusercontent.com/ruicchi/ruicchi/7116a15358b019b3972a6382287246f8436bd946/github-contribution-grid-snake-dark.svg)
